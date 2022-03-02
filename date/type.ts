@@ -1,0 +1,1 @@
+export type DirtyDate = string | Date;
